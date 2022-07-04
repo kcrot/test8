@@ -102,6 +102,14 @@
   }, {
     "id" : "org.talend.studio.components.di.cyberark.feature.feature.group"
   }, {
+    "id" : "org.talend.studio.components.tck.google.analytics.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.tck.kudu.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.tck.samba.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.tck.tableau.feature.feature.group"
+  }, {
     "id" : "org.talend.studio.components.tck.zendesk.feature.feature.group"
   }, {
     "id" : "org.talend.studio.components.tcompv0.azurestorage.feature.feature.group"
