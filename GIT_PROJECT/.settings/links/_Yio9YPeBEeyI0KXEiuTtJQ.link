@@ -1,0 +1,29 @@
+{
+  "itemId" : "_Yio9YPeBEeyI0KXEiuTtJQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_9AahoPwZEeyPp-eC_aKDlg",
+    "parameterList" : [ {
+      "id" : "_9AqZRvwZEeyPp-eC_aKDlg",
+      "name" : "testCloudera_hadoopConfSpecificJar"
+    }, {
+      "id" : "_9AqZRPwZEeyPp-eC_aKDlg",
+      "name" : "testCloudera_JobHistory"
+    }, {
+      "id" : "_9AqZQfwZEeyPp-eC_aKDlg",
+      "name" : "testCloudera_NameNodeUri"
+    }, {
+      "id" : "_9AqZQ_wZEeyPp-eC_aKDlg",
+      "name" : "testCloudera_ResourceManager"
+    }, {
+      "id" : "_9AqZQvwZEeyPp-eC_aKDlg",
+      "name" : "testCloudera_ResourceManagerScheduler"
+    }, {
+      "id" : "_9AqZRfwZEeyPp-eC_aKDlg",
+      "name" : "testCloudera_StagingDirectory"
+    }, {
+      "id" : "_9AqZR_wZEeyPp-eC_aKDlg",
+      "name" : "testCloudera_User"
+    } ]
+  } ]
+}
